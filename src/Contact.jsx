@@ -2,7 +2,7 @@ const Contact = () => {
   const contactInfo = {
     name: "zzz Praveen Matoria",
     phone: "+91 9828960022",
-    website: "example.com",
+    website: "https://imatoria.github.io",
     // Add more fields as needed (email, address, etc.)
   };
 
