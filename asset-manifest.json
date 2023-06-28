@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/qr-contact/static/css/main.2a17e381.css",
-    "main.js": "/qr-contact/static/js/main.0b92f63f.js",
+    "main.js": "/qr-contact/static/js/main.95fc1e68.js",
     "index.html": "/qr-contact/index.html",
+    "static/media/Praveen.vcf": "/qr-contact/static/media/Praveen.f278d8e9215d04aab6d3.vcf",
     "main.2a17e381.css.map": "/qr-contact/static/css/main.2a17e381.css.map",
-    "main.0b92f63f.js.map": "/qr-contact/static/js/main.0b92f63f.js.map"
+    "main.95fc1e68.js.map": "/qr-contact/static/js/main.95fc1e68.js.map"
   },
   "entrypoints": [
     "static/css/main.2a17e381.css",
-    "static/js/main.0b92f63f.js"
+    "static/js/main.95fc1e68.js"
   ]
 }
