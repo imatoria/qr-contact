@@ -6,7 +6,7 @@ import NotFound from "./NotFound";
 
 function App() {
   return (
-    <Router>
+    <Router basename="qr-contact">
       <div className="App">
         <ul>
           <li>
